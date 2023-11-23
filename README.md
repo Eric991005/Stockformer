@@ -1,4 +1,8 @@
-# Data File Explanation and Execution Method
+# StockFormer Data File Explanation and Execution Method
+
+## Overview of "StockFormer" Code
+This is the code accompanying the paper titled "StockFormer: A Swing Trading Strategy Based on STL Decomposition and Self-Attention Networks," which is currently under consideration for publication in the International Journal of Forecasting. The code provides a comprehensive framework for implementing the StockFormer model, including data preparation, model training, and backtesting.
+This is the code accompanying the paper titled "StockFormer: A Swing Trading Strategy Based on STL Decomposition and Self-Attention Networks," which is currently under consideration for publication in the International Journal of Forecasting. The code provides a comprehensive framework for implementing the StockFormer model, including data preparation, model training, and backtesting.
 
 ## Original Data
 Due to the large size of the original data, the author has stored it on a cloud drive for readers to use. The link to the original data is as follows: [raw_data](#)
