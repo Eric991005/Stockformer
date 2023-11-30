@@ -1,7 +1,7 @@
 # StockFormer Data File Explanation and Execution Method
 
 ## Overview of "StockFormer" Code
-This is the code accompanying the paper titled "StockFormer: A Swing Trading Strategy Based on STL Decomposition and Self-Attention Networks," which is currently under consideration for publication in the International Journal of Forecasting. The code provides a comprehensive framework for implementing the StockFormer model, including data preparation, model training, and backtesting.
+This is the code accompanying the paper titled "StockFormer: A Swing Trading Strategy Based on STL Decomposition and Self-Attention Networks," which is currently under consideration for publication in the International Journal of Forecasting. The preprint of this paper is available on SSRN. The code provides a comprehensive framework for implementing the StockFormer model, including data preparation, model training, and backtesting. You can access the preprint at: [SSRN Preprint](https://ssrn.com/abstract=4648073).
 
 ## Original Data
 Due to the large size of the original data, the author has stored it on a cloud drive for readers to use. The link to the original data is as follows: [raw_data](https://drive.google.com/drive/folders/1V-qq2NtCV0T4ULgYLI05Ev8g5ntoC3io?usp=sharing)
@@ -38,3 +38,16 @@ Execute the following command in the terminal to run the model:
 
 ```sh
 python Stockformer_train.py --config STOCKV4.conf
+```
+
+## How to Cite
+To cite the "StockFormer" paper and code in your research or publications, please use the following formats:
+
+**APA Style:**
+Ma, B., Wang, Y., Lu, Y., Hu, T., Xu, J., & Houlihan, P. (Year). StockFormer: A Swing Trading Strategy Based on STL Decomposition and Self-Attention Networks. SSRN Electronic Journal. Advance online publication. https://doi.org/10.2139/ssrn.4648073
+
+**MLA Style:**
+Ma, Bohan, et al. "StockFormer: A Swing Trading Strategy Based on STL Decomposition and Self-Attention Networks." SSRN Electronic Journal, SSRN Scholarly Paper ID 4648073, Social Science Research Network, Year, https://doi.org/10.2139/ssrn.4648073.
+
+**Chicago Style:**
+Ma, Bohan, Wang Yiheng, Lu Yuchao, Hu Tianzixuan, Xu Jinling, and Houlihan Patrick. "StockFormer: A Swing Trading Strategy Based on STL Decomposition and Self-Attention Networks." SSRN Electronic Journal. Year. https://doi.org/10.2139/ssrn.4648073.
