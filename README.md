@@ -51,3 +51,5 @@ Ma, Bohan, et al. "StockFormer: A Swing Trading Strategy Based on STL Decomposit
 
 **Chicago Style:**
 Ma, Bohan, Wang Yiheng, Lu Yuchao, Hu Tianzixuan, Xu Jinling, and Houlihan Patrick. "StockFormer: A Swing Trading Strategy Based on STL Decomposition and Self-Attention Networks." SSRN Electronic Journal. Year. https://doi.org/10.2139/ssrn.4648073.
+
+Replace "Year" with the year of publication once it becomes available. If the paper is part of a specific issue or volume, include those details as well.
