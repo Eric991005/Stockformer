@@ -49,11 +49,12 @@ Ma, B., Wang, Y., Lu, Y., Hu, T., Xu, J., & Houlihan, P. (Year). StockFormer: A 
 **MLA Style:**
 Ma, Bohan, et al. "StockFormer: A Swing Trading Strategy Based on STL Decomposition and Self-Attention Networks." SSRN Electronic Journal, SSRN Scholarly Paper ID 4648073, Social Science Research Network, Year, https://doi.org/10.2139/ssrn.4648073.
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Eric991005/Stockformer&type=Date)](https://star-history.com/#Eric991005/Stockformer&Date)
-
 **Chicago Style:**
 Ma, Bohan, Wang Yiheng, Lu Yuchao, Hu Tianzixuan, Xu Jinling, and Houlihan Patrick. "StockFormer: A Swing Trading Strategy Based on STL Decomposition and Self-Attention Networks." SSRN Electronic Journal. Year. https://doi.org/10.2139/ssrn.4648073.
 
 Replace "Year" with the year of publication once it becomes available. If the paper is part of a specific issue or volume, include those details as well.
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Eric991005/Stockformer&type=Date)](https://star-history.com/#Eric991005/Stockformer&Date)
